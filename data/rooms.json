@@ -1,0 +1,22 @@
+[
+    {
+        "name" : "poorhouse",
+        "image" : "kayak.jpg",
+        "description" : "<p>This is for people with no money </p>"
+
+    },
+    {
+        "name" : "middleclass",
+        "image" : "kayak.jpg",
+        "description" : "<p> Some Money is had </p>"
+
+    },
+    {
+        "name" : "Kings Palace",
+        "image" : "kayak.jpg",
+        "description" : "<p>Roll like a Baller </p>"
+
+    }
+
+
+]
