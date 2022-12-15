@@ -474,7 +474,7 @@ hr {
 	text-align: right;
 }
 #footer ul.navigation {
-	float: left;
+	float:none;/** change to get rid of error **/
 	display: inline-block;
 	list-style: none;
 	margin: 0;
@@ -505,8 +505,8 @@ hr {
 	text-transform: none;
 }
 /** Connect **/
-#connect {
-	float: right;
+#connect  {
+	float:none;/** change to get rid of error **/
 	display: inline-block;
 	line-height: 26px;
 	margin: 12px 0 0;

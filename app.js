@@ -9,10 +9,10 @@ var hbs = require('hbs');
 const passport = require('passport');
 const favicon = require('serve-favicon');
 
-require('./app_api/models/db');
-require('./app_api/models/user');
+require('./app_api/database/models/db');
+require('./app_api/database/models/user');
 require('./app_api/config/passport');
-require('./app_api/models/authresponse');
+require('./app_api/database/models/authresponse');
 
 const indexRouter = require('./app_server/routes/index');
 const usersRouter = require('./app_server/routes/users');
